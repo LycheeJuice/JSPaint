@@ -1,0 +1,38 @@
+body {
+    background-color: #111;
+}
+
+#container {
+    margin: 1em auto;
+    position: relative;
+    width: 1280px;
+}
+
+#gameArea {
+    background-color: #f1f1f1;
+}
+
+div #instructions {
+    color: white;
+    font-family: sans-serif;
+    margin: auto;
+    padding-top: 1em;
+    display: inline-block;
+}
+
+div #instructions .span {
+    color: white;
+    font-family: sans-serif;
+    font font-weight: bold;
+    margin: auto;
+    padding-top: 1em;
+}
+
+div button {
+    display: inline-block;
+}
+
+div form {
+    display: inline-block;
+}
+
